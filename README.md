@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://brunel-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:ahokpossibrunel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.topcoder.com/members/22901"><img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/></a>
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
