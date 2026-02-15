@@ -21,7 +21,6 @@
 
 I'm a **Full Stack Developer** with a passion for creating **robust, scalable applications** that solve real-world problems. I love exploring new technologies and contributing to open-source projects.
 
-- 🔭 Currently working on **[Eurekia](https://github.com/BrunelDev/Eurekia)** - An innovative educational platform
 - 🌱 Learning **Go, DevOps, Microservices Architecture n8n automation & Kubernetes**
 - 👯 Looking to collaborate on **[Moneroo Python SDK](https://github.com/BrunelDev/moneroo-python-sdk)**
 - 💼 Check out my portfolio: **[brunel-dev.vercel.app](https://brunel-dev.vercel.app/)**
