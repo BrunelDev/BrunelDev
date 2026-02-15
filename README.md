@@ -39,7 +39,7 @@ I'm a **Full Stack Developer** with a passion for creating **robust, scalable ap
 
 <p align="center">
   <strong>Backend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,go,fastapi,hono" alt="Backend Stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,go,fastapi" alt="Backend Stack"/>
   <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png" alt="Hono.js" width="48" height="48"/>
 </p>
 
